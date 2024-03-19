@@ -3,7 +3,8 @@ using namespace std;
 
 int main11()
 {
-	int a[3][4] = { {8,4,-1,5},
+
+	int a[3][4] = { {1,2,3,4},
 		{2,2,6,9},
 		{11,2,5,4} };
 	for (int i = 0; i < 3; i++)
