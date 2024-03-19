@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Thêm 1 nội dung mới từ nhánh main 
+=======
+51LOCAL: Xin chào mọi người 
+>>>>>>> 8dfb499e548126357a5c4bc76338b0c5cb0aa2be
